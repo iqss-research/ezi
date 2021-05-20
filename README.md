@@ -2,6 +2,9 @@
 
 <strong>This software is no longer being actively updated. Previous versions and information about the software are archived here.</strong>
 
+Authors: Kenneth Benoit, Gary King
+Website: https://gking.harvard.edu/EzI
+
 This is a stand-alone, menu-oriented version of EI that runs under Windows. It does not require Gauss or any other software to run.
 
 EzI does everything EI does and with fewer startup costs but, due to the lack of the Gauss command line, is somewhat less flexible. Winner of the APSA Research Software Award. 
